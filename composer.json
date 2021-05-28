@@ -1,0 +1,17 @@
+{
+    "name": "neherhalder/to-do-list",
+    "description": "Manage to do",
+    "type": "project",    
+    "authors": [
+        {
+            "name": "Neher Ranjan Halder",
+            "email": "niharhalder.live@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "minimum-stability": "stable"
+}

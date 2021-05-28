@@ -1,0 +1,27 @@
+.remove {
+  font-weight: 500;
+  padding: 0;
+}
+
+.dn {
+  display: none;
+}
+
+.dh {
+  visibility: hidden;
+}
+
+.input-name {
+  outline: none;
+  width: 90%;
+  border: none;
+}
+
+.remove a.abcde:hover {
+  color: red;
+  display: none;
+}
+
+.op-5 {
+  opacity: 0.5;
+}
