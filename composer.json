@@ -1,10 +1,10 @@
 {
-    "name": "neherhalder/to-do-list",
+    "name": "nihar-halder/simple-to-do-list",
     "description": "Manage to do",
     "type": "project",    
     "authors": [
         {
-            "name": "Neher Ranjan Halder",
+            "name": "Nihar Halder",
             "email": "niharhalder.live@gmail.com"
         }
     ],
